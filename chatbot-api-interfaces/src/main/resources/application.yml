@@ -1,2 +1,7 @@
 server:
-  port:8090
+  port: 8090
+
+chatbot-api:
+  groupId: 51112145142824
+  cookie: sensorsdata2015jssdkcross={"distinct_id":"186c51dd73ac5b-0a4163195aabca8-26031951-2073600-186c51dd73ba04","first_id":"","props":{"$latest_traffic_source_type":"直接流量","$latest_search_keyword":"未取到值_直接打开","$latest_referrer":""},"identities":"eyIkaWRlbnRpdHlfY29va2llX2lkIjoiMTg2YzUxZGQ3M2FjNWItMGE0MTYzMTk1YWFiY2E4LTI2MDMxOTUxLTIwNzM2MDAtMTg2YzUxZGQ3M2JhMDQifQ==","history_login_id":{"name":"","value":""},"$device_id":"186c51dd73ac5b-0a4163195aabca8-26031951-2073600-186c51dd73ba04"}; zsxq_access_token=EA536226-9A47-832F-85E0-96B2AC66097D_D6FB7D3BC54E13B5; abtest_env=product; zsxqsessionid=1caa43c0b3092a5df85543bdaaac268d
+  openAiKey: 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
